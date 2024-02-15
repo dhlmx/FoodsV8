@@ -1,0 +1,6 @@
+@FoodsV8_HostAddress = http://localhost:5113
+
+GET {{FoodsV8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
